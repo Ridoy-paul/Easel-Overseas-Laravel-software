@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v10/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrHbuW6O.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v10/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrGFuW6O.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v10/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrG3uW6O.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v10/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFbvm6O.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v10/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFivm6O.ttf) format('truetype');
+}
